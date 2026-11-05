@@ -1,146 +1,123 @@
-# Hi, I'm Thanh Long 👋
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:7C3AED&text=AI%20BACKEND%20ENGINEER&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20Scalable%20Backends&descAlignY=65&descSize=14&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineering+%2B+Artificial+Intelligence;Building+AI-Powered+Backend+Systems;Exploring+LLMs+%2C+RAG+%26+AI+Agents;From+System+Architecture+to+Intelligent+Applications" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThanhLong3125)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/long-nguyen-5586513b9)
-[![Profile Views](https://komarev.com/ghpvc/?username=ThanhLong3125&style=for-the-badge&color=0891B2)](https://github.com/ThanhLong3125)
-
-</div>
-
----
-
-## `$ whoami`
-
-I'm **Thanh Long**, an AI Backend Engineer interested in building intelligent, reliable, and scalable software systems.
-
-My focus is at the intersection of Backend Engineering and Artificial Intelligence.
-
-- 🧠 Exploring LLMs, AI Agents, RAG and model integration.
-- ⚙️ Building backend services, REST APIs and distributed systems.
-- 🗄️ Working with databases, data processing and system architecture.
-- 🔐 Interested in application security and blockchain security.
-- 🚀 Continuously learning how to turn AI capabilities into practical products.
-
-> My philosophy: Don't just build AI features. Engineer the systems that make AI useful.
-
----
-
-## `$ tech-stack`
-
-<div align="center">
-
-### Backend Engineering
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,express&theme=dark" />
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,linux,git,github&theme=dark" />
-
-### AI & Blockchain
-
-<img src="https://skillicons.dev/icons?i=python,solidity&theme=dark" />
-
-**Currently exploring**
-
-`LLMs` · `RAG` · `AI Agents` · `QLoRA` · `Model Serving` · `Smart Contracts`
-
-</div>
-
----
-
-## `$ featured-projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚙️ Autoscaling Kubernetes
-
-Infrastructure and autoscaling experiments.
-
-**Focus:** Kubernetes · Python · Infrastructure
-
-[View Repository →](https://github.com/ThanhLong3125/autoscaling-kubernetes)
-
-</td>
-<td width="50%">
-
-### 🛡️ AegisLedger
-
-A security-focused blockchain ledger project.
-
-**Focus:** TypeScript · Blockchain · Security
-
-[View Repository →](https://github.com/ThanhLong3125/aegis-ledger)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⛓️ Fundraising Blockchain
-
-Collaborative blockchain-based fundraising project.
-
-**Focus:** Solidity · Smart Contracts · TypeScript
-
-[View Repository →](https://github.com/Duy-T-Nguyen/fundraising-blockchain)
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Backend Systems
-
-Exploring intelligent backend architectures, LLM-powered applications and agent workflows.
-
-**Focus:** Python · Backend · AI Engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ github-analytics`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThanhLong3125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLong3125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ThanhLong3125&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
-## `$ contribution-graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhLong3125&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD → INTEGRATE → OPTIMIZE → SECURE`
-
-*Engineering intelligent systems, one commit at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:164E63&height=100&section=footer" width="100%" />
-
-</div>
+   <div align="center">
+
+    <!-- Terminal Header Banner -->
+    <img
+    src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,
+    40:161b22,100:090d16&height=180&text=THANH%20LONG%20::%20AI%20BACKEND%20
+    ENGINEER&fontColor=38bdf8&fontSize=32&fontAlignY=45&desc=%5B%20Distribut
+    ed%20Systems%20%7C%20AI%20Agents%20%26%20RAG%20%7C%20Scalable%20Microser
+    vices%20%5D&descAlignY=68&descSize=13&descColor=818cf8&stroke=30363d&str
+    okeWidth=1" width="100%" />
+
+    <br/>
+
+    <!-- Dynamic Terminal Typing Animation -->
+    <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&d
+    uration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&
+    lines=thanhlong%40terminal%3A~%24+sysctl+--status+active;Engineering+res
+    ilient+backends+powered+by+Modern+AI;Building+Autonomous+Agents+%2B+High
+    -Concurrency+Pipelines;From+Clean+Architecture+to+Intelligent+Scale..."
+    />
+
+    <br/>
+
+    <!-- CLI Quick Links -->
+    <p align="center">
+      <a href="https://github.com/ThanhLong3125">
+        <img
+        src="https://img.shields.io/badge/GitHub-181717?style=flat-square&lo
+        go=github&logoColor=38BDF8&labelColor=0D1117&color=161B22" />
+      </a>
+      <a href="https://www.linkedin.com/in/long-nguyen-5586513b9">
+        <img
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&
+        logo=linkedin&logoColor=38BDF8&labelColor=0D1117&color=161B22" />
+      </a>
+      <a href="mailto:thanhlong3125@gmail.com">
+        <img
+        src="https://img.shields.io/badge/Email-Terminal-brightgreen?style=f
+        lat-square&logo=gnu-bash&logoColor=34D399&labelColor=0D1117&color=16
+        1B22" />
+      </a>
+      <img
+      src="https://komarev.com/ghpvc/?username=ThanhLong3125&style=flat-squa
+      re&color=38bdf8&label=SYS_HITS&labelColor=0d1117" />
+    </p>
+
+    </div>
+
+    ---
+
+    ### `❯ cat system_profile.json`
+
+    ```jsonc
+    {
+      "engineer": {
+        "name": "Thanh Long",
+        "role": "AI Backend Engineer",
+        "core_philosophy": "Don't just plug in LLM APIs. Architect the
+        backend ecosystems that make AI reliable, scalable, and
+        deterministic."
+      },
+      "runtime_specs": {
+        "architecture": ["Clean Architecture", "Hexagonal / Ports &
+        Adapters", "Event-Driven", "Microservices"],
+        "concurrency_focus": ["High-Throughput APIs", "Asynchronous Tasks",
+        "Caching Strategies"],
+        "ai_integration": ["Autonomous Agents", "RAG Pipelines", "Pgvector /
+        Embeddings", "Model Serving"],
+        "infra_security": ["Kubernetes Autoscaling", "Container Hardening",
+        "Smart Contract Audit"]
+      },
+      "status": "Ready to deploy & collaborate 🚀"
+    }
+  ### ❯ tree -L 2 tech-stack/
+  #### Core Runtime & Backend
+
+  #### Data Layer & Vector Engines
+
+  #### AI Engineering & Workflows
+  #### Cloud, DevOps & Distributed Infra
+
+  #### Web3 & Security
+  ### ❯ ls -la ./featured-projects/
+
+    drwxr-xr-x  autoscaling-kubernetes    # Production-grade K8s HPA/Custom
+    Metrics & Python autoscaling experiments
+    drwxr-xr-x  aegis-ledger              # Security-hardened immutable
+    ledger architecture with TypeScript & audits
+    drwxr-xr-x  fundraising-blockchain    # Decentralized crowdfunding
+    protocols with robust Solidity smart contracts
+    drwxr-xr-x  agentic-backend-core      # High-performance async
+    microservices integrating Vector Search & LLM Agents
+
+    ❯ ./inspect autoscaling-kubernetes
+  Focus: Kubernetes · Python · Infra Automation
+
+  • Thiết lập cơ chế tự động mở rộng pods linh hoạt, tối ưu hóa tài nguyên
+  server và chịu tải cao.
+  • inspect repo ➔ https://github.com/ThanhLong3125/autoscaling-kubernetes
+
+    ❯ ./inspect aegis-ledger
+  Focus: TypeScript · Blockchain · Zero-Trust Security
+
+  • Hệ thống sổ cái bảo mật cao, hướng tới tính toàn vẹn dữ liệu và kiểm
+  soát truy vết an toàn.
+  • inspect repo ➔ https://github.com/ThanhLong3125/aegis-ledger
+    ❯ ./inspect fundraising-blockchain
+
+  Focus: Solidity · Hardhat · DeFi / Security
+  • Hợp đồng thông minh huy động vốn phân tán với quy trình xác thực minh
+  bạch và chống re-entrancy.
+  • inspect repo ➔ https://github.com/Duy-T-Nguyen/fundraising-blockchain
+    ❯ ./inspect intelligent-backend-systems
+  Focus: Python / Node.js · RAG Engine · Autonomous Agents
+  • Kiến trúc microservices kết hợp mô hình ngôn ngữ lớn, semantic caching
+  và quy trình ra quyết định tự động.
+  • explore lab ➔ https://github.com/ThanhLong3125
+  ### ❯ git status --analytics
+    [root@thanhlong-core ~]# echo "SYSTEM SHUTDOWN: 0 ERRORS | 100% UPTIME"
+
+  Crafting resilient codebases & intelligent infrastructure, one push at a
+  time.
