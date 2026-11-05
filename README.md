@@ -1,206 +1,332 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ==========================================
+     THANH LONG | AI BACKEND ENGINEER
+     Theme: Linux GUI + Interactive Terminal
+=========================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:161b22,100:090d16&height=180&text=THANH%20LONG%20%3A%3A%20AI%20BACKEND%20ENGINEER&fontColor=38bdf8&fontSize=32&fontAlignY=42&desc=%5B%20Distributed%20Systems%20%7C%20AI%20Agents%20%26%20RAG%20%7C%20Scalable%20Microservices%20%5D&descAlignY=68&descSize=13&descColor=818cf8&stroke=30363d&strokeWidth=1" width="100%" />
+<table>
+<tr>
+<td>
+
+`●` `●` `●` &nbsp; **CORE-SYSTEM — TERMINAL**
+
+</td>
+<td align="right">
+
+`GUI v2.0`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  THANH LONG                                     [ONLINE ●]   │
+│  AI BACKEND ENGINEER                                         │
+│                                                              │
+│  Distributed Systems  /  AI Agents  /  Microservices │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=100&lines=thanhlong%40core-system%3A~%24+whoami;AI+Backend+Engineer;thanhlong%40core-system%3A~%24+initialize+--ai;Building+Intelligent+Backend+Systems;thanhlong%40core-system%3A~%24+systemctl+status+core;%E2%9C%94+All+Systems+Ready" alt="Terminal typing animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=thanhlong%40terminal%3A~%24+sysctl+--status+active;Engineering+resilient+backends+powered+by+Modern+AI;Building+Autonomous+Agents+%2B+High-Concurrency+Pipelines;From+Clean+Architecture+to+Intelligent+Scale..." />
+`[ SYSTEM: ONLINE ]` &nbsp; ` [ ENV: LINUX ]` &nbsp; ` [ ROLE: AI BACKEND ]`
 
 <br/>
 
 <a href="https://github.com/ThanhLong3125">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=38BDF8&labelColor=0D1117&color=161B22" />
+<img src="https://img.shields.io/badge/GitHub-Explore-161B22?style=flat-square&logo=github" />
 </a>
 <a href="https://www.linkedin.com/in/long-nguyen-5586513b9">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=0D1117&color=161B22" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin" />
 </a>
 <a href="mailto:thanhlong3125@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-34D399?style=flat-square&logo=gmail&logoColor=34D399&labelColor=0D1117&color=161B22" />
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ThanhLong3125&style=flat-square&color=38bdf8&label=SYS_HITS&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ThanhLong3125&style=flat-square&color=0891B2&label=VISITORS" />
 
 </div>
 
 ---
 
-<!-- ==================== PROFILE ==================== -->
+## `01` — SYSTEM IDENTITY
 
-### `❯ cat system_profile.json`
+### `❯ whoami`
 
-```json
-{
-  "engineer": {
-    "name": "Thanh Long",
-    "role": "AI Backend Engineer",
-    "core_philosophy": "Don't just plug in LLM APIs. Architect backend ecosystems that make AI reliable, scalable, and maintainable."
-  },
-  "runtime_specs": {
-    "architecture": [
-      "Clean Architecture",
-      "Hexagonal Architecture",
-      "Event-Driven Systems",
-      "Microservices"
-    ],
-    "backend_engineering": [
-      "High-Throughput APIs",
-      "Asynchronous Processing",
-      "Caching Strategies",
-      "Database Optimization"
-    ],
-    "ai_integration": [
-      "LLM Integration",
-      "Autonomous AI Agents",
-      "RAG Pipelines",
-      "Vector Search",
-      "Model Serving"
-    ],
-    "infrastructure_security": [
-      "Docker & Kubernetes",
-      "Autoscaling",
-      "Application Security",
-      "Smart Contract Security"
-    ]
-  },
-  "status": "Ready to build & collaborate"
-}
+```bash
+thanhlong@core-system:~$ whoami
+
+Thanh Long
+
+thanhlong@core-system:~$ cat role.txt
+
+AI Backend Engineer
+```
+
+### `❯ cat about-me.txt`
+
+> Don't just plug in LLM APIs. Architect the backend ecosystems that make AI reliable, scalable, and maintainable.
+
+I'm an engineer interested in the intersection of Backend Engineering and Artificial Intelligence.
+
+My focus is building the infrastructure, services, and architectures that transform AI capabilities into practical applications.
+
+```yaml
+engineering:
+  backend:
+    - Clean Architecture
+    - Hexagonal Architecture
+    - Event-Driven Systems
+    - Microservices
+    - High-Concurrency APIs
+
+  artificial_intelligence:
+    - LLM Integration
+    - Autonomous AI Agents
+    - Model Serving
+
+  infrastructure:
+    - Docker
+    - Kubernetes
+    - Autoscaling
+    - Distributed Systems
+
+  security:
+    - Application Security
+    - Blockchain Security
+    - Smart Contract Security
+    - Data Integrity
 ```
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+## `02` — APPLICATIONS & TOOLKIT
 
-### `❯ tree -L 2 tech-stack/`
+### `❯ launch tech-stack`
 
-**01. Core Runtime & Backend**
+<details open>
+<summary><b>01 — Backend Runtime</b></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,express&theme=dark" />
 </p>
 
 `TypeScript` · `JavaScript` · `Node.js` · `Python` · `Express.js`
 
-**02. Data Layer & Vector Engines**
+</details>
+
+<details>
+<summary><b>02 — Data Layer & Storage</b></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
 </p>
 
 `PostgreSQL` · `MongoDB` · `Redis` · `Vector Search` · `Embeddings`
 
-**03. AI Engineering & Workflows**
+</details>
 
-`LLMs` · `RAG` · `AI Agents` · `Prompt Engineering` · `QLoRA` · `Inference`
+<details>
+<summary><b>03 — AI Engineering</b></summary>
 
-**04. Cloud, DevOps & Distributed Infrastructure**
+```text
+AI ENGINEERING TOOLKIT
+│
+├── LLM Integration
+├── Retrieval-Augmented Generation
+├── Autonomous AI Agents
+├── Prompt Engineering
+├── QLoRA / Fine-tuning
+└── Model Serving
+```
+
+</details>
+
+<details>
+<summary><b>04 — Infrastructure & DevOps</b></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark" />
 </p>
 
-`Docker` · `Kubernetes` · `Linux` · `Git` · `CI/CD`
+`Docker` · `Kubernetes` · `Linux` · `Git` · `GitHub`
 
-**05. Web3 & Security**
+</details>
+
+<details>
+<summary><b>05 — Web3 & Security</b></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
 </p>
 
 `Solidity` · `Hardhat` · `Smart Contracts` · `OWASP` · `Blockchain Security`
 
+</details>
+
 ---
 
-<!-- ==================== PROJECTS ==================== -->
+## `03` — FILE EXPLORER
 
-### `❯ ls -la ./featured-projects/`
+### `❯ tree -L 2 ~/projects/`
 
-```bash
-drwxr-xr-x  autoscaling-kubernetes
-drwxr-xr-x  aegis-ledger
-drwxr-xr-x  fundraising-blockchain
-drwxr-xr-x  ai-backend-lab       # Future / experimental workspace
+```text
+/home/thanhlong/projects/
+│
+├── autoscaling-kubernetes/
+│   └── Infrastructure & Autoscaling
+│
+├── aegis-ledger/
+│   └── Blockchain Security & Data Integrity
+│
+├── fundraising-blockchain/
+│   └── Decentralized Fundraising
+│
+└── ai-backend-lab/
+    └── AI Backend Experiments (Planned)
 ```
 
-#### `❯ ./inspect autoscaling-kubernetes`
+### `❯ open project-manager`
 
-**Focus:** `Kubernetes` · `Python` · `Infrastructure Automation`
+<table>
+<tr>
+<td colspan="2">
 
-- Exploring Kubernetes autoscaling mechanisms and resource optimization.
-- Working with workload scaling and infrastructure automation.
+`● PROJECT MANAGER` &nbsp; `3 ACTIVE REPOSITORIES`
 
-[↗ Inspect Repository](https://github.com/ThanhLong3125/autoscaling-kubernetes)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-#### `❯ ./inspect aegis-ledger`
+### Autoscaling Kubernetes
 
-**Focus:** `TypeScript` · `Blockchain` · `Security`
+`INFRASTRUCTURE`
 
-- Developing a security-focused ledger architecture.
-- Exploring data integrity, audit logging and tamper-resistant mechanisms.
+**Stack:** Python · Kubernetes
 
-[↗ Inspect Repository](https://github.com/ThanhLong3125/aegis-ledger)
+Experiments with workload autoscaling, resource optimization and infrastructure automation.
 
-#### `❯ ./inspect fundraising-blockchain`
+[↗ Open Repository](https://github.com/ThanhLong3125/autoscaling-kubernetes)
 
-**Focus:** `Solidity` · `Hardhat` · `Smart Contracts`
+</td>
+<td width="50%">
 
-- Building decentralized fundraising workflows.
-- Exploring access control, transaction validation and smart contract security.
+### AegisLedger
 
-[↗ Inspect Repository](https://github.com/Duy-T-Nguyen/fundraising-blockchain)
+`BLOCKCHAIN SECURITY`
 
-#### `❯ ./inspect ai-backend-lab`
+**Stack:** TypeScript · PostgreSQL
 
-**Focus:** `Python` · `Node.js` · `RAG` · `AI Agents`
+Security-focused ledger architecture exploring data integrity, audit logging and tamper-resistant mechanisms.
 
-- Exploring AI-powered backend architectures.
-- Experimenting with LLM integration, semantic retrieval and autonomous workflows.
+[↗ Open Repository](https://github.com/ThanhLong3125/aegis-ledger)
 
-**Status:** Experimental / Planned
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Fundraising Blockchain
+
+`SMART CONTRACTS`
+
+**Stack:** Solidity · Hardhat · TypeScript
+
+Decentralized fundraising with transparent transaction workflows, access control and smart contract security.
+
+[↗ Open Repository](https://github.com/Duy-T-Nguyen/fundraising-blockchain)
+
+</td>
+<td width="50%">
+
+### AI Backend Lab
+
+`EXPERIMENTAL / PLANNED`
+
+**Stack:** Python · Node.js · AI
+
+Exploring AI-powered backend architectures, RAG engines, semantic retrieval and autonomous agent workflows.
+
+`STATUS: PLANNED`
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+## `04` — TERMINAL WORKSPACE
 
-### `❯ git status --analytics`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThanhLong3125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLong3125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ThanhLong3125&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-### `❯ ./monitor contribution-activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhLong3125&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
+### `❯ ls -la ~/current-focus/`
 
 ```bash
-[root@thanhlong-core ~]# echo "SYSTEM STATUS: OPERATIONAL"
-[root@thanhlong-core ~]# echo "MISSION: BUILD INTELLIGENT SYSTEMS"
+thanhlong@core-system:~$ cat current-focus.txt
+
+[01] Backend Architecture
+[02] Distributed Systems
+[03] AI Agents & RAG
+[04] High-Concurrency Processing
+[05] Blockchain Security
+
+thanhlong@core-system:~$ echo "READY TO BUILD"
+READY TO BUILD
+```
+
+---
+
+## `05` — NETWORK & CONNECTIONS
+
+### `❯ ping collaboration`
+
+```text
+[INFO] Looking for engineering collaborations...
+
+[+] Backend Engineering
+[+] AI-powered Applications
+[+] Distributed Systems
+[+] Open Source Projects
+
+[STATUS] CONNECTION READY
+```
+
+<div align="center">
+
+<a href="https://github.com/ThanhLong3125">
+<img src="https://img.shields.io/badge/GitHub-Explore_Repositories-161B22?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/long-nguyen-5586513b9">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-161B22?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:thanhlong3125@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send_Message-161B22?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/>
+
+```bash
+[root@thanhlong-core ~]# echo "BUILD INTELLIGENT SYSTEMS"
+BUILD INTELLIGENT SYSTEMS
+
+[root@thanhlong-core ~]# echo "SECURE. SCALE. EVOLVE."
+SECURE. SCALE. EVOLVE.
+
+[root@thanhlong-core ~]# exit
+logout
 ```
 
 **Crafting resilient codebases & intelligent infrastructure, one push at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:164e63&height=100&section=footer" width="100%" />
+<sub>© Thanh Long — AI Backend Engineering</sub>
 
 </div>
