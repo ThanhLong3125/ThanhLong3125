@@ -1,332 +1,126 @@
-<!-- ==========================================
-     THANH LONG | AI BACKEND ENGINEER
-     Theme: Linux GUI + Interactive Terminal
-=========================================== -->
-
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-`●` `●` `●` &nbsp; **CORE-SYSTEM — TERMINAL**
-
-</td>
-<td align="right">
-
-`GUI v2.0`
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  THANH LONG                                     [ONLINE ●]   │
-│  AI BACKEND ENGINEER                                         │
-│                                                              │
-│  Distributed Systems  /  AI Agents  /  Microservices │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=100&lines=thanhlong%40core-system%3A~%24+whoami;AI+Backend+Engineer;thanhlong%40core-system%3A~%24+initialize+--ai;Building+Intelligent+Backend+Systems;thanhlong%40core-system%3A~%24+systemctl+status+core;%E2%9C%94+All+Systems+Ready" alt="Terminal typing animation" />
-
-<br/>
-
-`[ SYSTEM: ONLINE ]` &nbsp; ` [ ENV: LINUX ]` &nbsp; ` [ ROLE: AI BACKEND ]`
-
-<br/>
-
+<!-- Terminal Header Banner -->
 <a href="https://github.com/ThanhLong3125">
-<img src="https://img.shields.io/badge/GitHub-Explore-161B22?style=flat-square&logo=github" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=55&lines=Nguyen+Thanh+Long;Backend+%26+Cloud+Infrastructure;Real-Time+Streaming+%26+Edge+AI;Resilient.+Observable.+Secure." alt="Typing Banner" />
 </a>
-<a href="https://www.linkedin.com/in/long-nguyen-5586513b9">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=flat-square&logo=linkedin" />
-</a>
-<a href="mailto:thanhlong3125@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=flat-square&logo=gmail" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ThanhLong3125&style=flat-square&color=0891B2&label=VISITORS" />
+
+<p align="center">
+  <code>Distributed Systems</code> &nbsp;•&nbsp;
+  <code>Event-Driven Microservices</code> &nbsp;•&nbsp;
+  <code>Real-Time Streaming</code> &nbsp;•&nbsp;
+  <code>Cloud & DevOps</code>
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/ThanhLong3125"><img src="https://img.shields.io/badge/GitHub-ThanhLong3125-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/thanhlongnguyen-dev"><img src="https://img.shields.io/badge/LinkedIn-thanhlongnguyen--dev-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:thanhlongnguyen.dev@gmail.com"><img src="https://img.shields.io/badge/Email-thanhlongnguyen.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ThanhLong3125&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## `01` — SYSTEM IDENTITY
-
-### `❯ whoami`
+### 💻 `whoami --spec`
 
 ```bash
-thanhlong@core-system:~$ whoami
-
-Thanh Long
-
-thanhlong@core-system:~$ cat role.txt
-
-AI Backend Engineer
+thanhlong@core-system:~$ neofetch --profile
 ```
-
-### `❯ cat about-me.txt`
-
-> Don't just plug in LLM APIs. Architect the backend ecosystems that make AI reliable, scalable, and maintainable.
-
-I'm an engineer interested in the intersection of Backend Engineering and Artificial Intelligence.
-
-My focus is building the infrastructure, services, and architectures that transform AI capabilities into practical applications.
 
 ```yaml
-engineering:
-  backend:
-    - Clean Architecture
-    - Hexagonal Architecture
-    - Event-Driven Systems
-    - Microservices
-    - High-Concurrency APIs
+identity:
+  name: "Nguyen Thanh Long"
+  role: "Backend Engineer"
+  location: "Ho Chi Minh City, Vietnam"
+  education: "B.S. in Data Science @ UTH (GPA: 3.5 / 4.0)"
+  current_role: "Backend Developer @ SGOD Solutions (NestJS, Kafka, Redis, MongoDB)"
 
-  artificial_intelligence:
-    - LLM Integration
-    - Autonomous AI Agents
-    - Model Serving
-
-  infrastructure:
-    - Docker
-    - Kubernetes
-    - Autoscaling
-    - Distributed Systems
-
-  security:
-    - Application Security
-    - Blockchain Security
-    - Smart Contract Security
-    - Data Integrity
+engineering_focus:
+  - High-throughput REST & gRPC microservices with event-driven architecture
+  - Real-time data & DSP audio streaming pipelines with backpressure management
+  - Applied cryptography & tamper-evident audit logging (Ed25519, SHA-256)
+  - Container orchestration, cloud autoscaling (GKE, K8s, HPA), and Linux performance
 ```
 
 ---
 
-## `02` — APPLICATIONS & TOOLKIT
+### 🛠️ `tech-stack --all`
 
-### `❯ launch tech-stack`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,bash&theme=dark" alt="Languages & Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka&theme=dark" alt="Databases & Streaming" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,git&theme=dark" alt="Cloud & Infrastructure" />
+</p>
 
 <details open>
-<summary><b>01 — Backend Runtime</b></summary>
+<summary><b>Detailed Technology Breakdown</b></summary>
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,express&theme=dark" />
-</p>
-
-`TypeScript` · `JavaScript` · `Node.js` · `Python` · `Express.js`
-
-</details>
-
-<details>
-<summary><b>02 — Data Layer & Storage</b></summary>
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-</p>
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Vector Search` · `Embeddings`
-
-</details>
-
-<details>
-<summary><b>03 — AI Engineering</b></summary>
-
-```text
-AI ENGINEERING TOOLKIT
-│
-├── LLM Integration
-├── Retrieval-Augmented Generation
-├── Autonomous AI Agents
-├── Prompt Engineering
-├── QLoRA / Fine-tuning
-└── Model Serving
-```
-
-</details>
-
-<details>
-<summary><b>04 — Infrastructure & DevOps</b></summary>
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github&theme=dark" />
-</p>
-
-`Docker` · `Kubernetes` · `Linux` · `Git` · `GitHub`
-
-</details>
-
-<details>
-<summary><b>05 — Web3 & Security</b></summary>
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-</p>
-
-`Solidity` · `Hardhat` · `Smart Contracts` · `OWASP` · `Blockchain Security`
+| Domain | Core Technologies & Protocols |
+| :--- | :--- |
+| **Languages & Scripting** | `TypeScript`, `JavaScript`, `Python`, `SQL`, `Bash` |
+| **Backend & Microservices** | `Node.js`, `NestJS`, `gRPC (Protobuf)`, `RESTful APIs`, `WebSockets` |
+| **Databases & Messaging** | `PostgreSQL`, `MongoDB`, `Redis (Caching, Rate Limiting)`, `Apache Kafka` |
+| **Cloud & Infrastructure** | `Docker`, `Docker Compose`, `Kubernetes (K8s, HPA)`, `Google Kubernetes Engine (GKE)`, `Linux` |
+| **Edge AI & Audio DSP** | `WebGPU`, `WASM SIMD`, `Whisper ASR (On-Device)`, `Web Audio API (FIR Resampling, Biquad Filter)` |
 
 </details>
 
 ---
 
-## `03` — FILE EXPLORER
-
-### `❯ tree -L 2 ~/projects/`
-
-```text
-/home/thanhlong/projects/
-│
-├── autoscaling-kubernetes/
-│   └── Infrastructure & Autoscaling
-│
-├── aegis-ledger/
-│   └── Blockchain Security & Data Integrity
-│
-├── fundraising-blockchain/
-│   └── Decentralized Fundraising
-│
-└── ai-backend-lab/
-    └── AI Backend Experiments (Planned)
-```
-
-### `❯ open project-manager`
+### 🚀 `ls -la ~/featured-projects/`
 
 <table>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-`● PROJECT MANAGER` &nbsp; `3 ACTIVE REPOSITORIES`
+### 🎙️ [ClearVoice](https://github.com/ThanhLong3125/ClearVoice)
+> **Real-Time DSP Audio Streaming & On-Device AI Pipeline**  
+> `TypeScript` · `Web Audio API` · `WebGPU` · `Whisper ASR`
+
+- Local-first audio capture & streaming DSP pipeline with **48kHz $\rightarrow$ 16kHz FIR resampling** and **4th-order Biquad bandpass filter** (260Hz–3400Hz).
+- Sequential clause chunking with **0.3s stride overlap** and bounded backpressure queues with dynamic token budgeting.
+- **WebGPU hardware-accelerated** on-device Whisper inference (**RTF ~0.25**) with zero audio data transmitted externally.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [AegisLedger](https://github.com/ThanhLong3125/aegis-ledger)
+> **Cryptographic Audit Trail Microservice**  
+> `NestJS` · `TypeScript` · `PostgreSQL` · `Ed25519` · `SHA-256`
+
+- High-assurance audit logging service utilizing **SHA-256 hash chaining** and **Ed25519 digital signatures** for non-repudiation.
+- Implemented PostgreSQL append-only rules, database triggers, and automated tamper-detection alerts against unauthorized data modifications.
+- Designed following Clean Architecture principles with complete test coverage.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Autoscaling Kubernetes
+### ☸️ [Cloud Autoscaling on Kubernetes](https://github.com/ThanhLong3125/autoscaling-kubernetes)
+> **GKE Infrastructure & Load Testing Benchmark**  
+> `Google Kubernetes Engine` · `Docker` · `HPA` · `K6`
 
-`INFRASTRUCTURE`
-
-**Stack:** Python · Kubernetes
-
-Experiments with workload autoscaling, resource optimization and infrastructure automation.
-
-[↗ Open Repository](https://github.com/ThanhLong3125/autoscaling-kubernetes)
+- Production-grade microservices deployment on **Google Kubernetes Engine (GKE)** with containerization and Liveness/Readiness probes.
+- Configured **Horizontal Pod Autoscaler (HPA)** to dynamically scale workloads (2 to 5 Pods) under simulated **K6** concurrent traffic spikes.
+- Validated service mesh routing, zero-downtime rolling updates, and internal DNS discovery.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### AegisLedger
+### 📑 [Cryptocurrency Forecasting Benchmark](https://doi.org/10.15276/hait.09.2026.35)
+> **Peer-Reviewed Journal Publication (HAIT, 2026)**  
+> `Python` · `CCXT` · `Pandas` · `Time-Series ETL` · `Machine Learning`
 
-`BLOCKCHAIN SECURITY`
-
-**Stack:** TypeScript · PostgreSQL
-
-Security-focused ledger architecture exploring data integrity, audit logging and tamper-resistant mechanisms.
-
-[↗ Open Repository](https://github.com/ThanhLong3125/aegis-ledger)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Fundraising Blockchain
-
-`SMART CONTRACTS`
-
-**Stack:** Solidity · Hardhat · TypeScript
-
-Decentralized fundraising with transparent transaction workflows, access control and smart contract security.
-
-[↗ Open Repository](https://github.com/Duy-T-Nguyen/fundraising-blockchain)
-
-</td>
-<td width="50%">
-
-### AI Backend Lab
-
-`EXPERIMENTAL / PLANNED`
-
-**Stack:** Python · Node.js · AI
-
-Exploring AI-powered backend architectures, RAG engines, semantic retrieval and autonomous agent workflows.
-
-`STATUS: PLANNED`
+- Published research paper in the *Herald of Advanced Information Technology* ([DOI: 10.15276/hait.09.2026.35](https://doi.org/10.15276/hait.09.2026.35)).
+- Engineered an automated data extraction pipeline ingesting Binance real-time order books and candle data via **Python/CCXT**.
+- Constructed and benchmarked a 23-feature financial time-series dataset.
 
 </td>
 </tr>
 </table>
-
----
-
-## `04` — TERMINAL WORKSPACE
-
-### `❯ ls -la ~/current-focus/`
-
-```bash
-thanhlong@core-system:~$ cat current-focus.txt
-
-[01] Backend Architecture
-[02] Distributed Systems
-[03] AI Agents & RAG
-[04] High-Concurrency Processing
-[05] Blockchain Security
-
-thanhlong@core-system:~$ echo "READY TO BUILD"
-READY TO BUILD
-```
-
----
-
-## `05` — NETWORK & CONNECTIONS
-
-### `❯ ping collaboration`
-
-```text
-[INFO] Looking for engineering collaborations...
-
-[+] Backend Engineering
-[+] AI-powered Applications
-[+] Distributed Systems
-[+] Open Source Projects
-
-[STATUS] CONNECTION READY
-```
-
-<div align="center">
-
-<a href="https://github.com/ThanhLong3125">
-<img src="https://img.shields.io/badge/GitHub-Explore_Repositories-161B22?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/long-nguyen-5586513b9">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-161B22?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:thanhlong3125@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send_Message-161B22?style=for-the-badge&logo=gmail" />
-</a>
-
-<br/>
-
-```bash
-[root@thanhlong-core ~]# echo "BUILD INTELLIGENT SYSTEMS"
-BUILD INTELLIGENT SYSTEMS
-
-[root@thanhlong-core ~]# echo "SECURE. SCALE. EVOLVE."
-SECURE. SCALE. EVOLVE.
-
-[root@thanhlong-core ~]# exit
-logout
-```
-
-**Crafting resilient codebases & intelligent infrastructure, one push at a time.**
-
-<sub>© Thanh Long — AI Backend Engineering</sub>
-
 </div>
